@@ -180,7 +180,7 @@ const Home = () => {
         >
           Photos of Our Shop
         </h2>
-        {["255.jpg", "2556.jpg", "mam.jpg", "557.jpg", "5579.jpg", "055.jpg"].map((image, index) => (
+        {["255.jpg", "2556.jpg", "maam.jpg", "557.jpg", "5579.jpg", "055.jpg"].map((image, index) => (
           <div key={index} style={{ margin: "10px", width: "30%" }}>
             <img
               src={image}
